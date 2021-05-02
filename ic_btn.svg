@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Top" transform="translate(-373.000000, -1373.000000)" fill="#111111">
+            <path d="M372,1376 L372,1382.08579 L371,1382.08579 L371,1375.08579 L371.085786,1375.08579 L371.085786,1375 L378.085786,1375 L378.085786,1376 L372,1376 Z" id="ic_btn" transform="translate(374.542893, 1378.542893) rotate(135.000000) translate(-374.542893, -1378.542893) "></path>
+        </g>
+    </g>
+</svg>
